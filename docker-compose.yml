@@ -1,0 +1,5 @@
+services:
+  web:
+    image: sondossoua/monapp:latest
+    ports:
+      - "8090:80"
